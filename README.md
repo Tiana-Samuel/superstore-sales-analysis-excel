@@ -11,6 +11,7 @@ Summarizes overall business performance:
 - **Total Orders**: 8,400  
 - **Return Revenue**: $1,654,854  
 - **Profit Margin**: 10.20%
+
 These KPIs update dynamically based on filters (Region, Product Category, Manager, Month).
 
 ### 🔹 Product-Level Analysis
