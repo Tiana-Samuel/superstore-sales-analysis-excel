@@ -70,6 +70,6 @@ These KPIs update dynamically based on filters (Region, Product Category, Manage
 - **Operations Teams**: Track and reduce returns or delivery challenges.
 
 ## ✅ How to View
-1. Download `Superstore_Sales_Analysis_Dashboard.xlsx`
+1. Download `Excel_Sales_Project.xlsx`
 2. Open in Microsoft Excel (desktop recommended for full slicer support)
 3. Use the filters at the top to explore data by region, category, manager, or month.
